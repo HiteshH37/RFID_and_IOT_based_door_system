@@ -9,3 +9,9 @@ Components required:
 5) Jumper wires as required
 6) Bread board
 7) LCD screen
+
+Refer circuit diagram(JPEG file) for connections.
+
+The whole system is controlled by Blynk IOT application.
+
+For Blynk library:https://github.com/vshymanskyy/blynk-library-python.git
